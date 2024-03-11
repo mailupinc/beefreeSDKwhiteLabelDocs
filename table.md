@@ -83,8 +83,8 @@ The ARIA Grid Pattern is a set of guidelines outlined by the W3C's Accessible Ri
 To set your focus for using navigation keys, take the following steps:
 
 1. Navigate in Rows: Move through rows using your arrow keys. When focused on the table, pressing Enter will direct the focus to the first cell, enabling grid navigation.
-2. Grid Navigation: Once in grid navigation mode, press Enter or start typing to shift focus to the editor inside the cell you're currently focused on.
-3. Move Between Editors: While using the editor in a cell, if you wish to move directly to another editor in an adjacent cell:
+2. Grid Navigation: Once in grid navigation mode, press Enter or start typing to shift focus to the builder inside the cell you're currently focused on.
+3. Move Between Builders: While using the builder in a cell, if you wish to move directly to another builder in an adjacent cell:
    1. To move forwards, press Enter or Tab.
    2. To move backwards, use Shift + Enter or Shift + Tab.
 
@@ -94,8 +94,8 @@ In addition to the ARIA Grid Pattern, we also included the following custom beha
 
 * **Enter Key to navigate vertically through cells:** The Enter key has different functions depending on your current focus. The following list shows the different functions of the Enter key for each focus:
   * **When focus is on the module:** Pressing Enter sets focus to the first cell of the grid selection.
-  * **When focus is on a cell:** Pressing Enter while editing the content of the cell sets focus to the editor inside the cell.&#x20;
-  * **When focus is in the editor inside a cell:** Pressing Enter while editing the content of the cell sets focus to the editor in the cell above or below, depending on the direction.&#x20;
+  * **When focus is on a cell:** Pressing Enter while editing the content of the cell sets focus to the builder inside the cell.&#x20;
+  * **When focus is in the builder inside a cell:** Pressing Enter while editing the content of the cell sets focus to the builder in the cell above or below, depending on the direction.&#x20;
   * **Shift+Enter combination:** Clicking Shift+Enter inverts the direction of the Enter key behavior.
 * **Tab Key to navigate horizontally between cells:** Use the tab key to navigate between cells horizontally. If you are in a cell in the final column on the right side of the table, you will be navigated to the same level cell in the first column of the table.&#x20;
 * **Delete cell contents:** To delete a cell’s contents, use the backspace key when you are in the grid section.
