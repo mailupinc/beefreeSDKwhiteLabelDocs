@@ -27,7 +27,7 @@
 * [Custom HTML](custom-html.md)
 * [GIF Animations and Animated Stickers](gif-animations-and-animated-stickers.md)
 * [Video](video.md)
-* [Page Builder](page-builder-1.md)
+* [Table](table.md)
 * [Internal Links for Page Navigation](internal-links-for-page-navigation.md)
 * [Forms](forms.md)
 * [Mobile Optimization Options](mobile-optimization-options.md)
