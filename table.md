@@ -90,6 +90,8 @@ To set your focus for using navigation keys, take the following steps:
 
 By following these steps, you can set the focus for your navigation.
 
+### Custom Behaviors
+
 In addition to the ARIA Grid Pattern, we also included the following custom behaviors:
 
 * **Enter Key to navigate vertically through cells:** The Enter key has different functions depending on your current focus. The following list shows the different functions of the Enter key for each focus:
