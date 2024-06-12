@@ -56,3 +56,19 @@ Essentially, they can change when viewed by the end-user, offering highly person
 * **Configurations:**
   * **Dynamic Image Toggle:** Accessible in the "Content Properties," toggle this ON or OFF based on your requirement.
   * **Dynamic URL Input:** This field allows you to insert the variables needed for dynamic content. The URL field can't be empty; it has to contain at least the static part of the URL to which variables are appended.
+
+### Image Rounded Corners
+
+The Image rounded corners image property allows you to round the corners of any image you select within the builder.
+
+Take the following steps to use this image property:
+
+1. Enter your design within the application
+2. Select an image within the builder
+3. Navigate to the image properties located on the right-hand side of the screen
+4. Navigate to the **Image rounded corners** property
+5. If you'd like to round each corner of your image equally, click the plus (**+**) symbol below **All corners** to round all four corners simultaneously&#x20;
+6. If you'd like to round each corner separately, toggle on **More options**
+7. Click the plus (**+**) symbol to round each corner individually
+
+**Note:** Rounded image corners do not render with Outlook. The fallback for Outlook emails is squared corners.

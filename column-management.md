@@ -35,6 +35,40 @@ Here are some actions you can perform:
 * If you mistakenly delete a column, you can use the undo feature to recover it.
 * Column width is only specified in terms of column numbers, not in pixels.
 
+### Cards Style
+
+Cards Style is a Row Property that enables you to create space between columns and round the corners of columns within a row.
+
+#### Add Space Between Columns in a Row
+
+Take the following steps to create space between columns within a row:
+
+1. Enter your design within the application
+2. Click on a row within the builder
+3. Navigate to the **Cards Style** section of the **Row Properties** located on the right-hand side of the screen
+4. Navigate to the **Spacing** option
+5. Click the plus (**+**) symbol to increase the spacing between columns within the row
+
+You successfully added space between columns in a row.
+
+**Note:** To reduce the spacing between columns in a row, take steps one to four and then click the minus (**-**) symbol to reduce the spacing.
+
+#### Round the Corners of Columns in a Row
+
+Take the following steps to round the corners of columns within a row:
+
+1. Enter your design within the application
+2. Click on a row within the builder
+3. Navigate to the **Cards Style** section of the **Row Properties** located on the right-hand side of the screen
+4. Navigate to the **Cards Rounded Corners** option
+5. If you'd like to round each corner of the columns within the row equally, click the plus (**+**) symbol below **All corners** to round all four corners simultaneously
+6. If you'd like to round each corner separately, toggle on **More options**
+7. Click the plus (**+**) symbol to round each corner individually
+
+You successfully rounded the corners of the columns within the row.
+
+**Note:** Rounded image corners do not render with Outlook. The fallback for Outlook emails is squared corners.
+
 ### Vertical Alignment
 
 While this is a row-level setting, it's particularly useful for managing columns. If your columns contain different types of content, such as text and images, which might have different heights, vertical alignment can help you handle the empty space efficiently.\
