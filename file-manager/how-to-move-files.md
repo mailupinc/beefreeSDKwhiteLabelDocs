@@ -24,10 +24,13 @@ Consider the following regarding the new File manager functionality:
 * When you upload new files to the File manager, the URL will have a new format compared to previously uploaded files.
 * Your existing file URLs will remain the same as before.
 * When you move files within the File manager, the URL does not change.
-* In the event there is a name conflict, the File manager will add a suffix of \_1, \_2, _3, etc._ to differentiate between the files. Each file has a maximum of 50 duplicate uploads, therefore you can go up to a suffix of \_50.
+* If there is a name conflict, the File manager will ask if you want to replace the image, keep both images, or cancel the upload.&#x20;
+  * **Action: Click "keep":** The image uploads with a new name, adding a suffix like \_1. Suffixes increment to a maximum of \_50 in case of conflicts.
+  * **Click "replace":** The new image will overwrite the old one and appear in the File Manager. Once the CDN cache expires, you will see the updated content when browsing the URL. **Note:** The move feature also updates the content at served URLs, allowing for widespread alterations to an image's content when its URL is commonly used.
+  * **Click on "cancel":** The upload will be canceled.
 * After a file is deleted, the URL is unreachable when the CDN cache expires.
-* In the event you want to replace an existing file with a new file you are moving to that folder, the move feature will also replace the content in the served URLs. **Note:** This is useful to broadly change the content of an image whose URL is broadly used.
 
 The following image shows an example of the modal that appears in the event there is a name conflict.
 
 <figure><img src="../.gitbook/assets/CleanShot 2024-05-03 at 15.30.44@2x.png" alt="Modal informing the end user that there is a name conflict and two files in the same folder have the same name. The end user can keep both files, or replace the existing file with the new file. They can also cancel the action." width="563"><figcaption></figcaption></figure>
+
