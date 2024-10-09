@@ -26,9 +26,7 @@ Take the following steps to adjust a field's orientation:
 4. Select the option you'd like to apply.
 5. Click **Save** to confirm your changes.
 
-{% hint style="info" %}
-**Note:** This only applies to field's with **Grid** set as the **Layout** option in the sidebar.
-{% endhint %}
+**Note:** This only applies to `checkbox` and `radio` field types.
 
 ## Changing your form's layout preset
 
@@ -37,7 +35,7 @@ Take the following steps to adjust a form's layout preset.
 1. Navigate to the sidebar.
 2. Locate the **Layout** section.
 3. Find the Layout drop-down menu.
-4. Select **Grid** from the drop-down menu.
+4. Select **Grid**, **Vertical**, or **Horizontal** from the drop-down menu.
 
 Your changes will automatically be applied.
 
@@ -51,3 +49,5 @@ Take the following steps to edit your field's width.
 4. Select the option you'd like to apply.
 
 Your changes will automatically be applied.
+
+**Note:** The **Grid** must be set as the **Layout** option in the sidebar to edit the width of qualifying fields.
