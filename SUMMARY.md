@@ -8,6 +8,8 @@
 * [Row Properties](row-properties.md)
 * [Row vs. Content Block Selection](row-vs.-content-block-selection.md)
 * [Saved Rows](saved-rows.md)
+* [Hosted Saved Rows](hosted-saved-rows.md)
+* [Glossary of Common Terms](glossary-of-common-terms.md)
 * [Synced Rows](synced-rows.md)
 * [Column Management](column-management.md)
 * [Display Conditions](display-conditions.md)
