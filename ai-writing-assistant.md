@@ -1,4 +1,4 @@
-# Integrated AI Assistant
+# AI Writing Assistant
 
 #### Overview
 
@@ -38,6 +38,4 @@ Tokens are the units of text processed by the AI, essentially counting both your
 
 #### AI Model and Limitations
 
-The AI leverages the ChatGPT 3.5 Turbo model. It's important to note that this model neither accesses real-time data from the internet nor retains any user information.
-
-\
+The AI model used varies by application. Based on the integrated AI model, limitations may apply. \
