@@ -43,3 +43,4 @@
 * [Multi-language Templates](multi-language-templates/README.md)
   * [Automatic Translations](multi-language-templates/automatic-translations.md)
 * [AI-Generated Images](ai-generated-images.md)
+* [Hover Effect for Buttons](hover-effect-for-buttons.md)
