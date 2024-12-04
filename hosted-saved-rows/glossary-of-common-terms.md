@@ -1,7 +1,5 @@
 # Glossary of Common Terms
 
-## Glossary of Common Terms
-
 This Glossary includes a list of terms and definitions that will help you understand and navigate features related to rows.
 
 | Term         | Definition                                                                                                                                                                                                                                                                                                        |
