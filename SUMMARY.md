@@ -45,3 +45,4 @@
 * [AI-Generated Images](ai-generated-images.md)
 * [Hover Effect for Buttons](hover-effect-for-buttons.md)
 * [Apply a Brand Tone](apply-a-brand-tone.md)
+* [Content Area Padding](content-area-padding.md)
