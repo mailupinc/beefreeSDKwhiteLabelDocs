@@ -1,48 +1,81 @@
 # Table of contents
 
-* [Quick Start Guide for Design Builder](README.md)
-* [Design Builder Overview](design-builder-overview.md)
-* [Page Builder](page-builder.md)
-* [Preview](preview.md)
-* [Dark Mode Preview](dark-mode-preview.md)
-* [Row Properties](row-properties.md)
-* [Row vs. Content Block Selection](row-vs.-content-block-selection.md)
-* [Saved Rows](saved-rows.md)
-* [Hosted Saved Rows](hosted-saved-rows/README.md)
-  * [Glossary of Common Terms](hosted-saved-rows/glossary-of-common-terms.md)
-* [Synced Rows](synced-rows.md)
-* [Column Management](column-management.md)
-* [Display Conditions](display-conditions.md)
-* [Configuring Settings](configuring-settings.md)
-* [Padding](padding.md)
-* [Borders](borders.md)
-* [AI Writing Assistant](ai-writing-assistant.md)
-* [Letter and Paragraph Spacing](letter-and-paragraph-spacing.md)
-* [File Manager](file-manager/README.md)
-  * [How to Move Files](file-manager/how-to-move-files.md)
-* [Content Locking](content-locking.md)
-* [Paragraph and List Content Blocks](paragraph-and-list-content-blocks.md)
-* [Titles](titles.md)
-* [Dividers and Spacers](dividers-and-spacers.md)
-* [Menus](menus.md)
-* [Images](images.md)
-* [Icons](icons.md)
-* [Custom HTML](custom-html.md)
-* [GIF Animations and Animated Stickers](gif-animations-and-animated-stickers.md)
-* [Video](video.md)
-* [Table](table.md)
-* [Internal Links for Page Navigation](internal-links-for-page-navigation.md)
-* [Forms](forms/README.md)
-  * [Form Layout Customization](forms/form-layout-customization.md)
-* [Mobile Optimization Options](mobile-optimization-options.md)
-* [Mobile Design Mode](mobile-design-mode.md)
-* [Undo, Redo, and History](undo-redo-and-history.md)
-* [Co-editing in the Builder](co-editing-in-the-builder.md)
-* [Bulk Generate Alt Text with AI](bulk-generate-alt-text-with-ai.md)
-* [AI-Generated Metadata](ai-generated-metadata.md)
-* [Multi-language Templates](multi-language-templates/README.md)
-  * [Automatic Translations](multi-language-templates/automatic-translations.md)
-* [AI-Generated Images](ai-generated-images.md)
-* [Hover Effect for Buttons](hover-effect-for-buttons.md)
-* [Apply a Brand Tone](apply-a-brand-tone.md)
-* [Content Area Padding](content-area-padding.md)
+* [Quick Start Guide for Content Builder](README.md)
+
+## Builders
+
+* [Design Builder Overview](builders/design-builder-overview.md)
+* [Page Builder](builders/page-builder/README.md)
+  * [Internal Links for Page Navigation](builders/page-builder/internal-links-for-page-navigation.md)
+
+## Manage Files
+
+* [File Manager](manage-files/file-manager/README.md)
+  * [How to Move Files](manage-files/file-manager/how-to-move-files.md)
+
+## Design Tools
+
+* [Undo, Redo, and History](design-tools/undo-redo-and-history.md)
+* [Mobile Optimization Options](design-tools/mobile-optimization-options.md)
+* [Configuring Settings](design-tools/configuring-settings.md)
+* [Borders](design-tools/borders.md)
+* [Padding](design-tools/padding.md)
+* [Hover Effect for Buttons](design-tools/hover-effect-for-buttons.md)
+* [Content Area Padding](design-tools/content-area-padding.md)
+
+## Dynamic Content
+
+* [Display Conditions](dynamic-content/display-conditions.md)
+
+## Content Blocks
+
+* [Table](content-blocks/table.md)
+* [Forms](content-blocks/forms/README.md)
+  * [Form Layout Customization](content-blocks/forms/form-layout-customization.md)
+* [Video](content-blocks/video.md)
+* [Icons](content-blocks/icons.md)
+* [GIF Animations and Animated Stickers](content-blocks/gif-animations-and-animated-stickers.md)
+* [Custom HTML](content-blocks/custom-html.md)
+* [Paragraph and List Content Blocks](content-blocks/paragraph-and-list-content-blocks.md)
+* [Titles](content-blocks/titles.md)
+* [Menus](content-blocks/menus.md)
+* [Images](content-blocks/images.md)
+* [Dividers and Spacers](content-blocks/dividers-and-spacers.md)
+* [Letter and Paragraph Spacing](content-blocks/letter-and-paragraph-spacing.md)
+
+## Reuse Content
+
+* [Saved Rows](reuse-content/saved-rows.md)
+* [Hosted Saved Rows](reuse-content/hosted-saved-rows/README.md)
+  * [Glossary of Common Terms](reuse-content/hosted-saved-rows/glossary-of-common-terms.md)
+* [Synced Rows](reuse-content/synced-rows.md)
+
+## Structure Content
+
+* [Row vs. Content Block Selection](structure-content/row-vs.-content-block-selection.md)
+* [Row Properties](structure-content/row-properties.md)
+* [Column Management](structure-content/column-management.md)
+
+## Design for any Language
+
+* [Multi-language Templates](design-for-any-language/multi-language-templates.md)
+
+## Preview Options
+
+* [Preview Designs](preview-options/preview-designs.md)
+* [Dark Mode Preview](preview-options/dark-mode-preview.md)
+* [Mobile Design Mode](preview-options/mobile-design-mode.md)
+
+## Team Collaboration
+
+* [Co-editing in the Builder](team-collaboration/co-editing-in-the-builder.md)
+* [Content Locking](team-collaboration/content-locking.md)
+
+## AI Tools for Content Creation
+
+* [Apply a Brand Tone](ai-tools-for-content-creation/apply-a-brand-tone.md)
+* [AI-Generated Images](ai-tools-for-content-creation/ai-generated-images.md)
+* [AI-Generated Metadata](ai-tools-for-content-creation/ai-generated-metadata.md)
+* [Bulk Generate Alt Text with AI](ai-tools-for-content-creation/bulk-generate-alt-text-with-ai.md)
+* [AI Writing Assistant](ai-tools-for-content-creation/ai-writing-assistant.md)
+* [Automatic Translations](ai-tools-for-content-creation/automatic-translations.md)

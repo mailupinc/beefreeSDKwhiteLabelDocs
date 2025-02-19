@@ -18,7 +18,7 @@ Hover effects are supported by about 60% of email clients, with notable limitati
 
 The following GIF displays an example of a button within an email sent to an email client that does support the hover effect.
 
-<figure><img src=".gitbook/assets/CleanShot 2024-11-26 at 11.46.36.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2024-11-26 at 11.46.36.gif" alt=""><figcaption></figcaption></figure>
 
 ### What happens if an email client doesn't support the hover effect for buttons?
 
@@ -26,7 +26,7 @@ If an email client doesn't support the hover effect for buttons, the email recip
 
 The following image displays an example of a button within an email sent to an email client that does not support the hover effect.
 
-<figure><img src=".gitbook/assets/CleanShot 2024-11-26 at 11.47.41.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2024-11-26 at 11.47.41.png" alt=""><figcaption></figcaption></figure>
 
 ## **Prerequisites**
 
@@ -44,11 +44,11 @@ Take the following steps to apply the hover effect to a button within the builde
 4. Navigate to the **Content tab** on the sidebar on the right-hand side of the screen.
 5. Scroll down to the **Button Hover** section under **Content Properties**.
 
-<figure><img src=".gitbook/assets/CleanShot 2024-11-18 at 18.43.31@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2024-11-18 at 18.43.31@2x.png" alt=""><figcaption></figcaption></figure>
 
 6. Toggle on the **Button hover** option.
 
-<figure><img src=".gitbook/assets/CleanShot 2024-11-18 at 18.44.42@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2024-11-18 at 18.44.42@2x.png" alt=""><figcaption></figcaption></figure>
 
 7.  Complete the following information
 
@@ -63,7 +63,7 @@ The details you specified in step seven define the change in appearance of the b
 
 The following GIF provides a visual example of this.
 
-<figure><img src=".gitbook/assets/CleanShot 2024-11-18 at 18.56.30.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2024-11-18 at 18.56.30.gif" alt=""><figcaption></figcaption></figure>
 
 ## **Important Considerations**
 

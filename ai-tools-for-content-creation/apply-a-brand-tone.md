@@ -22,11 +22,11 @@ Take the following steps to create and apply a brand tone:
 
     A modal will open displaying options to define a brand tone.&#x20;
 
-    <figure><img src=".gitbook/assets/CleanShot 2024-11-20 at 14.39.15.gif" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/CleanShot 2024-11-20 at 14.39.15.gif" alt=""><figcaption></figcaption></figure>
 5. Complete the information to define your brand tone and save your changes.
 6.  When you return to the side window, select the brand voice you defined and saved from the drop-down menu.&#x20;
 
-    <figure><img src=".gitbook/assets/CleanShot 2024-11-20 at 14.43.16.gif" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/CleanShot 2024-11-20 at 14.43.16.gif" alt=""><figcaption></figcaption></figure>
 7. Enter your prompt in the box.
 8. Click **Generate**.
 

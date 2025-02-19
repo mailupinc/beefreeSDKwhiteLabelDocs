@@ -2,7 +2,7 @@
 
 ## Overview of Multi-language Templates
 
-With Multi-language templates, you can integrate multiple languages into a single design without needing to create separate versions. Whether for email campaigns or webpage content, the builder simplifies the localization process. You can add translated content to these templates, with the option to [leverage AI assistance](automatic-translations.md) for efficient translations. This feature helps avoid creating and managing separate designs for each language, reducing localization costs and improving team efficiency.
+With Multi-language templates, you can integrate multiple languages into a single design without needing to create separate versions. Whether for email campaigns or webpage content, the builder simplifies the localization process. You can add translated content to these templates, with the option to [leverage AI assistance](../ai-tools-for-content-creation/automatic-translations.md) for efficient translations. This feature helps avoid creating and managing separate designs for each language, reducing localization costs and improving team efficiency.
 
 Multi-language templates also ensure consistency in design elements, which helps maintain your brand identity across different language versions. Ultimately, these templates enable you to create content that resonates with your international audiences.
 
@@ -36,10 +36,10 @@ Once you add your Primary and Additional languages to your Multi-language Settin
 
 There are two methods for adding translated content:
 
-1. [Use AI to translate](automatic-translations.md) your template content
+1. [Use AI to translate](../ai-tools-for-content-creation/automatic-translations.md) your template content
 2. Manually translate your content for each design
 
-To use AI to translate your template content visit the [Automatic Translations article](automatic-translations.md).
+To use AI to translate your template content visit the [Automatic Translations article](../ai-tools-for-content-creation/automatic-translations.md).
 
 ### How to Preview Multi-language Templates
 
@@ -55,9 +55,9 @@ To edit optional properties for each language:
 
 1. Enter the design language you would like to edit details for.
 2. Click the **Settings** tab inside the side bar located on the right-hand side of the screen.
-3.  Manually type in the [metadata](../ai-generated-metadata.md) for the corresponding design.
+3.  Manually type in the [metadata](../ai-tools-for-content-creation/ai-generated-metadata.md) for the corresponding design.
 
-    Note: You can also [use AI to automatically generate your design's metadata](../ai-generated-metadata.md).
+    Note: You can also [use AI to automatically generate your design's metadata](../ai-tools-for-content-creation/ai-generated-metadata.md).
 4. Click **Save**.
 
 ### Export Options

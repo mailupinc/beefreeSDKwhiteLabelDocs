@@ -32,5 +32,5 @@ Consider the following regarding the new File manager functionality:
 
 The following image shows an example of the modal that appears in the event there is a name conflict.
 
-<figure><img src="../.gitbook/assets/CleanShot 2024-05-03 at 15.30.44@2x.png" alt="Modal informing the end user that there is a name conflict and two files in the same folder have the same name. The end user can keep both files, or replace the existing file with the new file. They can also cancel the action." width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CleanShot 2024-05-03 at 15.30.44@2x.png" alt="Modal informing the end user that there is a name conflict and two files in the same folder have the same name. The end user can keep both files, or replace the existing file with the new file. They can also cancel the action." width="563"><figcaption></figcaption></figure>
 

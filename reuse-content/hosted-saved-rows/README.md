@@ -18,13 +18,13 @@ A modal will appear asking you to confirm your row's name and category.
 1. Confirm your row's name and category.
 2. Click **Save** to confirm.
 
-<figure><img src="../.gitbook/assets/CleanShot 2024-12-03 at 11.43.11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CleanShot 2024-12-03 at 11.43.11.png" alt=""><figcaption></figcaption></figure>
 
 ### Save Hosted Row Modal <a href="#save-hosted-row-modal" id="save-hosted-row-modal"></a>
 
 The following image shows an example of the **Save your row** modal. Through this modal, you can assign a **Row name** and **Category** to your row and save it.
 
-<figure><img src="../.gitbook/assets/CleanShot 2024-12-03 at 11.44.37.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CleanShot 2024-12-03 at 11.44.37.png" alt=""><figcaption></figcaption></figure>
 
 ### Add a New Hosted Saved Row Category <a href="#add-a-new-hosted-row-category" id="add-a-new-hosted-row-category"></a>
 
@@ -46,7 +46,7 @@ A modal displaying **Add new category** will appear.
 1. Type the new category's name in the respective field.
 2. Click **Save** to create the new category.
 
-<figure><img src="../.gitbook/assets/CleanShot 2024-12-03 at 11.45.30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CleanShot 2024-12-03 at 11.45.30.png" alt=""><figcaption></figcaption></figure>
 
 ### Edit Hosted Saved Rows <a href="#edit-hosted-rows-metadata" id="edit-hosted-rows-metadata"></a>
 
@@ -65,7 +65,7 @@ A modal will appear with your hosted row's **Name** and **Category.**
 
 The following image shows an example of the **ROWS** tab in the sidebar. The hosted row is in a category called "Bird Collection" and the Options menu displays the options to **Edit Info** or **Delete** the hosted hosted row.
 
-<figure><img src="../.gitbook/assets/CleanShot 2024-12-03 at 11.46.03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CleanShot 2024-12-03 at 11.46.03.png" alt=""><figcaption></figcaption></figure>
 
 ### Delete Hosted Saved Rows through the Sidebar <a href="#delete-hosted-rows-through-the-sidebar" id="delete-hosted-rows-through-the-sidebar"></a>
 
@@ -87,7 +87,7 @@ A modal will appear asking you to confirm the deletion of the row.
 
 If you try to create a row category with the name of a row category that already exists, you will receive an error message informing you that the row category name already exists.
 
-<figure><img src="../.gitbook/assets/CleanShot 2024-12-03 at 11.48.06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CleanShot 2024-12-03 at 11.48.06.png" alt=""><figcaption></figcaption></figure>
 
 ### Save as New Hosted Saved Row <a href="#save-as-new-hosted-row" id="save-as-new-hosted-row"></a>
 
@@ -101,4 +101,4 @@ Take the following steps to save a row as new:
 4. Click **Save as new.**
 5. The row will save under the category you selected.
 
-<figure><img src="../.gitbook/assets/CleanShot 2024-12-03 at 11.48.32.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CleanShot 2024-12-03 at 11.48.32.png" alt=""><figcaption></figcaption></figure>
