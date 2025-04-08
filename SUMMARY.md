@@ -17,11 +17,13 @@
 
 * [Undo, Redo, and History](design-tools/undo-redo-and-history.md)
 * [Mobile Optimization Options](design-tools/mobile-optimization-options.md)
+* [Mobile Design Mode](preview-options/mobile-design-mode.md)
 * [Configuring Settings](design-tools/configuring-settings.md)
 * [Borders](design-tools/borders.md)
 * [Padding](design-tools/padding.md)
 * [Hover Effect for Buttons](design-tools/hover-effect-for-buttons.md)
 * [Content Area Padding](design-tools/content-area-padding.md)
+* [Line Height](design-tools/line-height.md)
 
 ## Dynamic Content
 
@@ -64,7 +66,6 @@
 
 * [Preview Designs](preview-options/preview-designs.md)
 * [Dark Mode Preview](preview-options/dark-mode-preview.md)
-* [Mobile Design Mode](preview-options/mobile-design-mode.md)
 
 ## Team Collaboration
 
