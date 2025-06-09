@@ -24,6 +24,7 @@
 * [Hover Effect for Buttons](design-tools/hover-effect-for-buttons.md)
 * [Content Area Padding](design-tools/content-area-padding.md)
 * [Line Height](design-tools/line-height.md)
+* [HTML Importer](design-tools/html-importer.md)
 
 ## Dynamic Content
 
