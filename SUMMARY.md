@@ -81,3 +81,7 @@
 * [Bulk Generate Alt Text with AI](ai-tools-for-content-creation/bulk-generate-alt-text-with-ai.md)
 * [AI Writing Assistant](ai-tools-for-content-creation/ai-writing-assistant.md)
 * [Automatic Translations](ai-tools-for-content-creation/automatic-translations.md)
+
+## Accessibility
+
+* [Custom Keyboard Navigation](accessibility/custom-keyboard-navigation.md)
