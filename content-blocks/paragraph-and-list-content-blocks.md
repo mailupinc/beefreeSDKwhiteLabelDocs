@@ -65,3 +65,14 @@ Take the following steps to edit content and scroll through sidebar properties.
 Use the following key to exit and save changes.
 
 * To exit editing mode and return to row navigation, press `Esc`. This key also helps to clear any active selections within the block, ensuring a smooth transition back to broader content management.
+
+### Avoid Double Bolding on Windows
+
+The **Title**, **Paragraph**, and **List** modules let you apply bold in two ways:
+
+* Selecting **Bold** as the font weight in the sidebar
+* Using the **Bold** button in the text toolbar on the stage
+
+On **Windows**, combining both results in overly bold text. On **macOS**, it remains visually unchanged.
+
+To ensure consistency across platforms, use only **one** method to apply bold formatting.

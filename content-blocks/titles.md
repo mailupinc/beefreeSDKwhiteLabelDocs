@@ -54,3 +54,14 @@ Take the following steps to edit headers and navigate through properties:
 Use the following key to exit and save your changes.
 
 * Press `Esc` to exit the editing mode of the Title block. This command also deselects the block, saving any changes made.
+
+### Avoid Double Bolding on Windows
+
+The **Title**, **Paragraph**, and **List** modules let you apply bold in two ways:
+
+* Selecting **Bold** as the font weight in the sidebar
+* Using the **Bold** button in the text toolbar on the stage
+
+On **Windows**, combining both results in overly bold text. On **macOS**, it remains visually unchanged.
+
+To ensure consistency across platforms, use only **one** method to apply bold formatting.
